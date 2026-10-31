@@ -1,0 +1,5 @@
+# Both direct Python and the browser GUI work without third-party packages.
+# The Excel exporter includes a standard-library XLSX fallback.
+# The following optional dependencies enhance Excel formatting and/or add a desktop window.
+# On supported environments: pip install artifact_tool_v2
+pywebview>=5,<7
